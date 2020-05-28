@@ -8,13 +8,10 @@
 
 import UIKit
 
+// View controller of the main screen
 class ViewController: UIViewController {
-
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
 }
 
